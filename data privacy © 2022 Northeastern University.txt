@@ -1,0 +1,50 @@
+What Is Data Privacy?
+Data privacy, or information privacy, often refers to a specific kind of privacy linked to personal information (however that may be defined) that is provided to private actors in a variety of different contexts.
+
+It can be surprising to learn that there is no overarching federal law governing data privacy. Instead, data privacy is a fragmented legal concept. The U.S. Constitution protects people against certain kinds of government intrusions; the Fourth Amendment, for example, protects people against unreasonable government searches. In a number of cases, the Supreme Court has understood the Due Process Clauses of the Fifth and Fourteenth Amendments to create a privacy right, in particular with regard to sexual privacy. But no constitutional provision gives individuals a general right of privacy against the government, and certainly, none gives individuals a right of privacy against private actors, such as private employers.
+
+Download Our Free Guide to Earning Your Master’s in Legal Studies
+What you should know about the law degree for non-lawyers, including who should apply and how it can give you a competitive edge in your career.
+
+
+The Global Data Privacy Landscape
+U.S. Data Privacy
+In the U.S., data privacy is protected under a complex framework of federal and state law. Federal laws protecting personal information are sector-specific, including personal health information, educational information, children’s information, and financial information. These different kinds of personal information are protected under an “alphabet soup” of specific federal laws, including:
+
+The Health Insurance Portability and Accountability Act (HIPAA)
+The Family Educational Rights and Privacy Act (FERPA)
+The Children’s Online Privacy Protection Act (COPPA)
+The Gramm-Leach-Bliley Act (GLBA)
+Each of these laws defines the personal information at issue differently, creates different enforcement mechanisms, and places unique requirements on consent and disclosure. In the U.S., the kind of information that is protected under these laws is often narrowly defined. Many laws treat protected information as someone’s name plus some other piece of identifying information, such a Social Security Number. This way of defining personal information reflects the consumer-protection orientation of U.S. law. Outside of certain specific contexts, such as health and medical information, specific consent is not required for businesses to collect and use personal information.
+
+Federal Data Privacy Law
+Within the federal framework, one federal actor stands out as having a significant role in regulating how private organizations behave when it comes to personal information: the Federal Trade Commission (FTC). The FTC is a federal agency with both rulemaking authority and law enforcement authority over most businesses in the United States. While the FTC has some rulemaking authority when it comes to privacy—it can promulgate rules protecting children’s information under COPPA and financial information under the GLBA, for example—its law enforcement authority is perhaps more important. The FTC has broad authority under Section 5 of the FTC Act, which gives it enforcement power over unfair and deceptive commercial acts and practices. Federal courts have determined that this power includes enforcement authority against certain data privacy practices. The FTC has used its Section 5 authority to enter into settlement agreements with a number of companies based on their data privacy and security practices, in particular if a data breach reveals inadequate practices.
+
+State-Level Data Privacy Law
+Every state (and the District of Columbia and U.S. territories) has its own set of data privacy laws. Data privacy laws take the form of data breach notification statutes, security regulations, and industry-specific privacy statutes (e.g., privacy laws governing the insurance industry). Some states have unique privacy laws. For example:
+
+Illinois recently passed a Biometric Information Privacy Act that regulates the collection, use, and retention of certain biometric information, such as facial recognition scans or fingerprints.
+Vermont passed a first-of-its-kind “data broker” law to regulate organizations that aggregate data and then provide it or sell it to other organizations.
+New York recently passed a set of security regulations aimed at the financial industry.
+In addition to these laws, state attorney generals have power similar to the FTC to enforce against data privacy practices in the consumer protection context.
+
+Clearly, the complex array of data privacy laws—some of which exist in tension with one another—can be an enormous headache for organizations trying to understand how to create a compliance framework. The questions become more complex when an organization suffers a data incident that affects it across numerous jurisdictions.
+
+International Data Privacy
+The U.S. data privacy framework stands in sharp contrast to the European framework. In the European Economic Area, or EEA (the European Union plus Norway, Liechtenstein, and Iceland), a single law governs data privacy: the General Data Protection Regulation (GDPR). The GDPR is a comprehensive regulatory scheme that governs how all personal data is used and transferred within the EEA and from the EEA to non-EEA countries. It defines personal information broadly (for instance, it can include simply someone’s name or IP address) and requires specific legal justification for any use of personal information.
+
+Importantly, the GDPR reflects a human rights orientation to data privacy, as opposed to U.S. law, where data privacy can be best thought of as a compromise between business and consumer interests. In this regard, the GDPR grants affirmative rights to individuals, such as the right to have data corrected or deleted, and demands that before personal information can be collected or processed, there must be a legal basis such as affirmative consent or a specific contract.
+
+The GDPR is important for organizations to understand for at least two reasons. First, it has an extra-territorial scope. That is, if a business in the U.S. is receiving information from EEA residents or does business in the EEA, it will likely be subject to the GDPR. Secondly, because of its extra-territorial reach and its broad protection of personal information, the law has encouraged other countries and businesses (even some U.S. states) to augment their protections of personal information. For example, shortly after the GDPR came into effect, Brazil passed a law similar in important respects to the GDPR. Japan supplemented its privacy protections to make it easier for businesses to transfer personal data from the EEA to Japan. California has also passed the California Consumer Privacy Act (CCPA), creating numerous affirmative data privacy rights similar to the GDPR’s rights.
+
+Emerging Changes in Data Privacy Law
+The passing of the CCPA is a good indicator of the future of data privacy, which will likely include greater protections and more affirmative rights. Although the two laws are very different in a number of respects, California’s experiment with a GDPR-like statute will be a good test for U.S. businesses. Already, organizations are deciding whether, if they must be CCPA compliant, they should simply extend CCPA protections to non-California residents. Other states have also considered similar laws, and we can expect states to continue experimenting with augmented privacy protections. Congress continues to debate whether a federal law is necessary, and what such a law should look like. The regulatory landscape, in other words, is shifting under our feet.
+
+Data Privacy Best Practices for Organizations
+What does this fluid landscape mean for organizations? There are a few best practices organizations can employ:
+
+Look at data privacy holistically. Think of data privacy as a holistic risk management issue for the organization, and not as something confined to technical experts.
+Map your data. That is, understand what you have, who has it, where it’s stored, and who it’s provided to.
+Make sure your practices match your promises. Organizations should have robust privacy policies. But organizations will also be held to the obligations and representations they make in those policies.
+Review and updates your practices regularly. What you collect and what you do with what you collect changes more often than you might think.
+Vet your vendors. Make sure third parties that collect and process personal information have reasonable security and privacy practices.

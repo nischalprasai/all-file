@@ -1,0 +1,45 @@
+to connect window and linux 
+ifconfig 
+systemctl status(enable) vsftpd 
+
+command prompt 
+ftp(ip address of kali)
+kali name and password
+
+to send  window to kali
+login to kali 
+lcd window path of file  
+put (file name)
+
+from kali to window
+in cmd 
+ls 
+get (file name)
+
+apache2 downlode
+sudo apt-get install apache2cd
+
+changing index file of apache2
+sudo systemctl status apache2
+sudo systemctl start apache2
+cd /etc/
+cd apache2
+ls
+sudo vim apache2.conf
+
+cd
+cd /var/www/html
+ls
+sudo index.html
+sudo vim index.html
+
+tar
+tar -cvf filename.tar anotherfile
+ 
+dis tar 
+tar -xvf filename.tar 
+
+sudo service install usftpd
+sudo 
+ 
+  

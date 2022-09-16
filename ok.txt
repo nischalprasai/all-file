@@ -1,0 +1,52 @@
+TASk1 Question no 1
+sudo adduser nischal
+sudo usermod -aG sudo nischal
+
+question 2
+find /home/nischal
+
+
+question3
+su nischal
+
+question 4
+cd ~
+
+question5
+pwd
+
+question 6
+
+  1.          mkdir mydir
+
+  2.        cat > nischal.txt
+            ctrl+d to exit
+
+  3.       touch{1..100}.txt
+
+
+   4.             rm *[1]*.txt
+
+
+    5.    rm -i -v 22.txt
+
+
+     6.  for i in file*; do echo 'hgffjhv' >> "$i"; done;
+
+question 7
+
+tail -5 /etc/passwd > passwd.txt
+
+
+question 8
+  a.          groupadd eth32
+
+ b.             cat > kali.txt
+                ctrl+d
+                ls -l kali.txt
+
+c.              sudo chown user:group file name
+
+d                   chmod 047 file name
+
+e                  switch and acces all the file in different users

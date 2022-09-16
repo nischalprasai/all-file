@@ -1,0 +1,49 @@
+end divices 
+it is a device were data originited/ host device 
+
+intermediary network devices 
+device which connect end device
+
+network media
+device which physically connect end device and intermediary device
+
+
+
+
+
+
+locial topological diagram
+*network information 
+ network address
+ network ip assiment 
+* port connection 
+* VL information 
+
+7 Layer of OSI Model
+*Application layer
+ provide certain type of service 
+*Presentation Layer
+ process the data(encrypet,decryped,coding,compressing)
+*Session layer
+ it provide the door for the data to send other nodes
+*transport layer
+ data delivery/chopping the data into small pices or segiment /tcp,udp
+*network layer
+ it decide the path of the data destanition(router is use here) 
+*data link layer
+ decate error/hub to hub sending/framing(process of covering packet with ip address of the destanitation)(switch)
+*physical layer
+ it coverte data in current and voltage(wire)
+
+TCP/IP Layer
+Application 
+Transport
+Internet
+Network Interface
+
+NIC card convert digital into anologe
+NIC convert bits into electrical signal
+
+signal
+signal is a function that conveys information about a phenomenon. 
+
